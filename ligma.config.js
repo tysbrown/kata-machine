@@ -24,6 +24,11 @@ module.exports = {
         "BFSGraphMatrix",
         "Map",
         "MinHeap",
+        "RingBuffer",
+        "BFSGraphList",
+        "DijkstraList",
+        "InsertionSort",
+        "MergeSort",
+        "PrimsList",
     ],
-}
-
+};
